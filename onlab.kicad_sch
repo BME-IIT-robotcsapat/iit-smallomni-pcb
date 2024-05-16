@@ -4706,7 +4706,7 @@
     (property "Reference" "R22" (at 169.672 62.484 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "75" (at 169.418 67.31 90)
+    (property "Value" "100" (at 169.418 67.31 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 167.894 62.992 90)
