@@ -12189,7 +12189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68"
+		(property "Value" "1k"
 			(at 252.222 194.564 90)
 			(effects
 				(font
@@ -13030,7 +13030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68"
+		(property "Value" "1k"
 			(at 215.392 195.834 90)
 			(effects
 				(font
@@ -13301,7 +13301,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68"
+		(property "Value" "1k"
 			(at 215.392 175.514 90)
 			(effects
 				(font
@@ -13714,7 +13714,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68"
+		(property "Value" "1k"
 			(at 178.562 195.834 90)
 			(effects
 				(font
@@ -14436,7 +14436,7 @@
 		(dnp no)
 		(uuid "4edf9eac-67cb-465f-91b4-5bf1070f49b9")
 		(property "Reference" "R2"
-			(at 114.3 29.21 0)
+			(at 114.046 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14444,8 +14444,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "152.5"
-			(at 116.078 31.75 0)
+		(property "Value" "3k"
+			(at 113.792 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16268,8 +16268,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "502.5"
-			(at 111.76 48.006 0)
+		(property "Value" "10k"
+			(at 109.728 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20505,7 +20505,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68"
+		(property "Value" "1k"
 			(at 252.222 175.514 90)
 			(effects
 				(font
@@ -21000,7 +21000,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68"
+		(property "Value" "1k"
 			(at 178.562 175.514 90)
 			(effects
 				(font
