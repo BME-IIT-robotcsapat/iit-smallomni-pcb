@@ -14436,7 +14436,7 @@
 		(dnp no)
 		(uuid "4edf9eac-67cb-465f-91b4-5bf1070f49b9")
 		(property "Reference" "R2"
-			(at 114.046 29.21 0)
+			(at 113.538 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14445,7 +14445,7 @@
 			)
 		)
 		(property "Value" "3k"
-			(at 113.792 31.496 0)
+			(at 113.538 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18417,7 +18417,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "7.5k"
+		(property "Value" "9.1k"
 			(at 36.195 83.185 0)
 			(effects
 				(font
@@ -21069,7 +21069,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.5k"
+		(property "Value" "3k"
 			(at 36.195 93.345 0)
 			(effects
 				(font
