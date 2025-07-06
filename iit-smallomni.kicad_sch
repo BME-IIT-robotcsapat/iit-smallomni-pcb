@@ -9025,6 +9025,16 @@
 		)
 		(uuid "7b4c5085-bd2e-435e-9b8b-c0c3b667d290")
 	)
+	(text "10uF to auto-reset\nwhen programming"
+		(exclude_from_sim no)
+		(at 172.466 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8a89aff3-9f98-44e5-bd9e-983c4d9306ea")
+	)
 	(text "MPU-9250 IMU"
 		(exclude_from_sim no)
 		(at 68.58 67.31 0)
@@ -18641,7 +18651,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10u"
 			(at 173.99 44.45 0)
 			(effects
 				(font
