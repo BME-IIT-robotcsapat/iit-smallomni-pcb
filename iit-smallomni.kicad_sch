@@ -3540,7 +3540,7 @@
 				(pin power_in line
 					(at -10.16 1.27 0)
 					(length 2.54)
-					(name "Input-"
+					(name "Input+"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3558,7 +3558,7 @@
 				(pin power_in line
 					(at -10.16 -1.27 0)
 					(length 2.54)
-					(name "Input+"
+					(name "Input-"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3576,7 +3576,7 @@
 				(pin power_out line
 					(at 11.43 -1.27 180)
 					(length 2.54)
-					(name "Output+"
+					(name "Output-"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3594,7 +3594,7 @@
 				(pin power_in line
 					(at 11.43 1.27 180)
 					(length 2.54)
-					(name "Output-"
+					(name "Output+"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9945,7 +9945,7 @@
 		(uuid "a3bb58ba-b796-486f-a161-2de309b461b9")
 	)
 	(label "Mot3_DrvB"
-		(at 351.79 80.01 180)
+		(at 351.79 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10099,7 +10099,7 @@
 		(uuid "d54dda3a-b33d-4ede-9386-bc9078ca3f7d")
 	)
 	(label "Mot3_DrvA"
-		(at 351.79 82.55 180)
+		(at 351.79 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22180,7 +22180,6 @@
 	(symbol
 		(lib_id "iit-smallomni:DSN-1504_module")
 		(at 90.17 26.67 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22188,7 +22187,7 @@
 		(dnp no)
 		(uuid "fd9d2243-1327-41a7-beff-e3af238966ea")
 		(property "Reference" "U2"
-			(at 90.17 22.606 0)
+			(at 90.17 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22196,7 +22195,7 @@
 			)
 		)
 		(property "Value" "DSN-1504_module"
-			(at 90.678 21.082 0)
+			(at 90.424 20.828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22204,7 +22203,7 @@
 			)
 		)
 		(property "Footprint" "iit-smallomni:DSN1504_module"
-			(at 82.55 30.48 0)
+			(at 82.55 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22213,7 +22212,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 30.48 0)
+			(at 82.55 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
