@@ -15155,7 +15155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "iit-smallomni:D_SOD-123FL"
 			(at 73.66 25.4 0)
 			(effects
 				(font
