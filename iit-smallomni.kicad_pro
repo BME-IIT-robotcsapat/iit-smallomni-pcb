@@ -531,6 +531,7 @@
       "Net-(JP1-C)": "signal",
       "Net-(U1-EN{slash}RESET)": "signal",
       "Net-(U1-P14{slash}GPIO14{slash}ADC2_CH6)": "signal",
+      "Net-(U1-P33{slash}GPIO33{slash}ADC1_CH5)": "signal",
       "Net-(U4-P5)": "signal",
       "Net-(U4-P6)": "signal",
       "Net-(U4-P7)": "signal",
