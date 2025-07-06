@@ -237,7 +237,7 @@
 			(pin input line
 				(at -7.62 6.35 0)
 				(length 2.54)
-				(name "IN4"
+				(name "IN1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -255,7 +255,7 @@
 			(pin output line
 				(at 8.89 1.27 180)
 				(length 2.54)
-				(name "OUT2"
+				(name "OUT3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -273,7 +273,7 @@
 			(pin output line
 				(at 8.89 3.81 180)
 				(length 2.54)
-				(name "OUT1"
+				(name "OUT4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -291,7 +291,7 @@
 			(pin bidirectional line
 				(at 8.89 6.35 180)
 				(length 2.54)
-				(name "EEP"
+				(name "FAULT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -309,7 +309,7 @@
 			(pin input line
 				(at -7.62 3.81 0)
 				(length 2.54)
-				(name "IN3"
+				(name "IN2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -327,7 +327,7 @@
 			(pin power_in line
 				(at -7.62 1.27 0)
 				(length 2.54)
-				(name "GND"
+				(name "VCC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -345,7 +345,7 @@
 			(pin power_in line
 				(at -7.62 -1.27 0)
 				(length 2.54)
-				(name "VCC"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -363,7 +363,7 @@
 			(pin input line
 				(at -7.62 -3.81 0)
 				(length 2.54)
-				(name "IN2"
+				(name "IN3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -381,7 +381,7 @@
 			(pin input line
 				(at -7.62 -6.35 0)
 				(length 2.54)
-				(name "IN1"
+				(name "IN4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -399,7 +399,7 @@
 			(pin bidirectional line
 				(at 8.89 -6.35 180)
 				(length 2.54)
-				(name "ULT"
+				(name "SLEEP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -417,7 +417,7 @@
 			(pin output line
 				(at 8.89 -3.81 180)
 				(length 2.54)
-				(name "OUT4"
+				(name "OUT1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -435,7 +435,7 @@
 			(pin output line
 				(at 8.89 -1.27 180)
 				(length 2.54)
-				(name "OUT3"
+				(name "OUT2"
 					(effects
 						(font
 							(size 1.27 1.27)

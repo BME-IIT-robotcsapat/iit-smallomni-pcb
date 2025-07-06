@@ -536,8 +536,10 @@
       "Net-(U4-P7)": "signal",
       "Net-(U5-EEP)": "signal",
       "Net-(U5-EN{slash}RESET)": "signal",
+      "Net-(U5-FAULT)": "signal",
       "Net-(U5-P14{slash}GPIO14{slash}ADC2_CH6)": "signal",
       "Net-(U6-EEP)": "signal",
+      "Net-(U6-FAULT)": "signal",
       "Net-(U7-EEP)": "signal"
     },
     "netclass_patterns": [
