@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "iit-smallomni")(type "KiCad")(uri "${KIPRJMOD}/iit-smallomni.kicad_sym")(options "")(descr ""))
+)
