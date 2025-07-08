@@ -754,7 +754,7 @@
       "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "iit-smallomni.step",
       "svg": "",
       "vrml": ""
     },
