@@ -24381,6 +24381,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "ESP32-NodeMCU32S"
+		(at 187.198 103.632 90)
+		(layer "F.SilkS")
+		(uuid "2581c483-3f1e-41b0-bbcf-2bd349b204b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.155)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "SLEEP"
 		(at 233.68 78.485998 0)
 		(layer "F.SilkS")
