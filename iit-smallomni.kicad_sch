@@ -15535,7 +15535,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48de2237-8e1f-4b5d-b1d0-7b198a985968")
-		(property "Reference" "SW4"
+		(property "Reference" "BTN_RST"
 			(at 163.83 41.148 0)
 			(effects
 				(font
@@ -15587,7 +15587,7 @@
 		(instances
 			(project "iit-smallomni"
 				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
-					(reference "SW4")
+					(reference "BTN_RST")
 					(unit 1)
 				)
 			)
