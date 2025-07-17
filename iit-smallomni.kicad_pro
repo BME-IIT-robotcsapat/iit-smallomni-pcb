@@ -535,6 +535,7 @@
       "Net-(U1-P33{slash}GPIO33{slash}ADC1_CH5)": "signal",
       "Net-(U4-P1)": "signal",
       "Net-(U4-P2)": "signal",
+      "Net-(U4-P3)": "signal",
       "Net-(U4-P5)": "signal",
       "Net-(U4-P6)": "signal",
       "Net-(U4-P7)": "signal",
