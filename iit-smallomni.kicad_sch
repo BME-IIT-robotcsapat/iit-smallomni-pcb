@@ -6383,12 +6383,6 @@
 		(uuid "00927a13-f6d1-49ac-80af-a2842a3bf323")
 	)
 	(junction
-		(at 170.18 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "01d0c1f3-d2d2-491f-80d4-08d072fda35a")
-	)
-	(junction
 		(at 369.57 191.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6425,7 +6419,7 @@
 		(uuid "0b162435-4a4c-4b89-a11e-cac00c249a20")
 	)
 	(junction
-		(at 273.05 129.54)
+		(at 283.21 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0b50b89e-46dc-4a8b-be4d-3f39c2ef5090")
@@ -6545,13 +6539,13 @@
 		(uuid "5acad607-97f3-4eea-8da5-9c7e676db101")
 	)
 	(junction
-		(at 166.37 129.54)
+		(at 154.94 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bf060f8-7dfe-43de-80ad-861fca2488e9")
 	)
 	(junction
-		(at 217.17 129.54)
+		(at 208.28 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e7845be-a577-4558-a5c7-79bf69c40f71")
@@ -6593,6 +6587,12 @@
 		(uuid "7e6ba794-c629-4134-bf82-7d1cc2afbd48")
 	)
 	(junction
+		(at 158.75 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e7e2a61-ca4f-46da-93d2-14688d3d0d52")
+	)
+	(junction
 		(at 373.38 236.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6629,7 +6629,7 @@
 		(uuid "a7862b94-1ea8-468c-9606-fd8000d1f706")
 	)
 	(junction
-		(at 181.61 129.54)
+		(at 179.07 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b38b7b18-307e-4268-888d-9a3a34baac10")
@@ -6701,13 +6701,13 @@
 		(uuid "d1b921bd-ad42-4be0-a4a3-a18a7cd6b4b4")
 	)
 	(junction
-		(at 151.13 54.61)
+		(at 153.67 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2ed660f-6617-4c64-8870-be0237d2c9b3")
 	)
 	(junction
-		(at 213.36 129.54)
+		(at 204.47 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d34f9db4-d914-4b33-9a9b-15b8fa36fe41")
@@ -6884,7 +6884,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 129.54) (xy 181.61 129.54)
+			(xy 182.88 129.54) (xy 179.07 129.54)
 		)
 		(stroke
 			(width 0)
@@ -7194,7 +7194,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 135.89) (xy 273.05 135.89)
+			(xy 281.94 135.89) (xy 283.21 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7311,16 +7311,6 @@
 			(type default)
 		)
 		(uuid "1ba2f798-5459-423d-a738-2b66d660ea71")
-	)
-	(wire
-		(pts
-			(xy 172.72 135.89) (xy 170.18 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1baa79a6-737f-4956-9ef3-0bc13de9479b")
 	)
 	(wire
 		(pts
@@ -7604,7 +7594,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 129.54) (xy 166.37 129.54)
+			(xy 148.59 129.54) (xy 154.94 129.54)
 		)
 		(stroke
 			(width 0)
@@ -7774,6 +7764,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 39.37) (xy 171.45 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ad6cc7b-1a79-45a0-b45d-b25a2603eec5")
+	)
+	(wire
+		(pts
 			(xy 41.91 149.86) (xy 50.8 149.86)
 		)
 		(stroke
@@ -7834,7 +7834,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 129.54) (xy 170.18 129.54)
+			(xy 154.94 129.54) (xy 158.75 129.54)
 		)
 		(stroke
 			(width 0)
@@ -7864,7 +7864,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 135.89) (xy 181.61 135.89)
+			(xy 177.8 135.89) (xy 179.07 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8074,7 +8074,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 129.54) (xy 218.44 129.54)
+			(xy 208.28 129.54) (xy 209.55 129.54)
 		)
 		(stroke
 			(width 0)
@@ -8364,7 +8364,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 39.37) (xy 171.45 39.37)
+			(xy 146.05 39.37) (xy 158.75 39.37)
 		)
 		(stroke
 			(width 0)
@@ -8464,6 +8464,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 129.54) (xy 160.02 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63af00c1-8c14-4e87-a928-22bc4f631dc0")
+	)
+	(wire
+		(pts
 			(xy 251.46 54.61) (xy 254 54.61)
 		)
 		(stroke
@@ -8514,6 +8524,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 135.89) (xy 158.75 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68bab5da-89b3-4c26-afec-672023b69e9b")
+	)
+	(wire
+		(pts
 			(xy 171.45 248.92) (xy 177.8 248.92)
 		)
 		(stroke
@@ -8531,6 +8551,16 @@
 			(type default)
 		)
 		(uuid "6a06022e-bb78-4a3d-8df8-3edaf8759acd")
+	)
+	(wire
+		(pts
+			(xy 167.64 129.54) (xy 168.91 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a38f969-b279-47c9-9035-9e04cf5f15cf")
 	)
 	(wire
 		(pts
@@ -8661,16 +8691,6 @@
 			(type default)
 		)
 		(uuid "745cc384-6ff2-4743-b8cd-26d4ce593779")
-	)
-	(wire
-		(pts
-			(xy 151.13 54.61) (xy 156.21 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "749f7967-4e1c-4dd9-bc4d-4ce9528e4ccf")
 	)
 	(wire
 		(pts
@@ -8861,16 +8881,6 @@
 			(type default)
 		)
 		(uuid "7f06e1dd-dffc-41ec-af66-ad3a464e9892")
-	)
-	(wire
-		(pts
-			(xy 170.18 129.54) (xy 171.45 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80cd86f6-0b51-434b-9a52-ed5c3f92cbaf")
 	)
 	(wire
 		(pts
@@ -9124,7 +9134,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 135.89) (xy 217.17 135.89)
+			(xy 219.71 135.89) (xy 208.28 135.89)
 		)
 		(stroke
 			(width 0)
@@ -9204,7 +9214,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 135.89) (xy 217.17 129.54)
+			(xy 208.28 135.89) (xy 208.28 129.54)
 		)
 		(stroke
 			(width 0)
@@ -9234,7 +9244,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 129.54) (xy 262.89 129.54)
+			(xy 261.62 129.54) (xy 264.16 129.54)
 		)
 		(stroke
 			(width 0)
@@ -9384,7 +9394,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 129.54) (xy 217.17 129.54)
+			(xy 204.47 129.54) (xy 208.28 129.54)
 		)
 		(stroke
 			(width 0)
@@ -9394,7 +9404,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 135.89) (xy 261.62 135.89)
+			(xy 274.32 135.89) (xy 261.62 135.89)
 		)
 		(stroke
 			(width 0)
@@ -9441,6 +9451,16 @@
 			(type default)
 		)
 		(uuid "a2b300e7-f3bf-4e79-91a5-8aac008144a0")
+	)
+	(wire
+		(pts
+			(xy 271.78 129.54) (xy 273.05 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2c37629-4643-4a92-ae27-f835c5810a11")
 	)
 	(wire
 		(pts
@@ -9551,6 +9571,16 @@
 			(type default)
 		)
 		(uuid "abe781e9-acb1-4b8c-8086-6107d7adef83")
+	)
+	(wire
+		(pts
+			(xy 158.75 135.89) (xy 170.18 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac6ed613-330b-40a6-9243-80993eedb1f5")
 	)
 	(wire
 		(pts
@@ -9784,6 +9814,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 129.54) (xy 218.44 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba98d3f1-59b9-43c6-a066-1caf81e90c10")
+	)
+	(wire
+		(pts
 			(xy 34.29 95.25) (xy 34.29 96.52)
 		)
 		(stroke
@@ -9934,7 +9974,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 129.54) (xy 273.05 129.54)
+			(xy 287.02 129.54) (xy 283.21 129.54)
 		)
 		(stroke
 			(width 0)
@@ -10014,7 +10054,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 129.54) (xy 213.36 129.54)
+			(xy 198.12 129.54) (xy 204.47 129.54)
 		)
 		(stroke
 			(width 0)
@@ -10064,7 +10104,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 135.89) (xy 273.05 129.54)
+			(xy 283.21 135.89) (xy 283.21 129.54)
 		)
 		(stroke
 			(width 0)
@@ -10344,7 +10384,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 54.61) (xy 151.13 54.61)
+			(xy 142.24 54.61) (xy 156.21 54.61)
 		)
 		(stroke
 			(width 0)
@@ -10354,7 +10394,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 135.89) (xy 181.61 129.54)
+			(xy 179.07 135.89) (xy 179.07 129.54)
 		)
 		(stroke
 			(width 0)
@@ -10434,7 +10474,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 45.72) (xy 158.75 39.37)
+			(xy 135.89 45.72) (xy 135.89 39.37)
 		)
 		(stroke
 			(width 0)
@@ -10451,16 +10491,6 @@
 			(type default)
 		)
 		(uuid "fca5a523-ee90-4eb3-a305-b433ef5cd3f9")
-	)
-	(wire
-		(pts
-			(xy 170.18 135.89) (xy 170.18 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcc8cae2-a9a9-4090-91b8-51177275f98b")
 	)
 	(wire
 		(pts
@@ -10603,7 +10633,7 @@
 		(uuid "13f2e2ee-7dce-4e06-9d90-fa327677ce3e")
 	)
 	(label "Button_1"
-		(at 160.02 129.54 180)
+		(at 148.59 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11253,7 +11283,7 @@
 		(uuid "d32bfd0e-a611-45ac-9f76-ffc5c48ea5b6")
 	)
 	(label "Button_2"
-		(at 207.01 129.54 180)
+		(at 198.12 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12307,7 +12337,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 267.97 135.89 90)
+		(at 278.13 135.89 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12317,7 +12347,7 @@
 		(dnp no)
 		(uuid "0454aa97-036b-4ad5-91f6-edab08c4af2b")
 		(property "Reference" "C4"
-			(at 266.7 140.97 0)
+			(at 276.86 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12328,7 +12358,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at 269.24 142.24 0)
+			(at 279.4 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12339,7 +12369,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 271.78 134.9248 0)
+			(at 281.94 134.9248 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12350,7 +12380,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 135.89 0)
+			(at 278.13 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12361,7 +12391,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 267.97 135.89 0)
+			(at 278.13 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14011,7 +14041,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 260.35 279.4 0)
+		(at 251.46 274.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14022,7 +14052,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c0f056a-72d7-4dc6-8c33-1a3837a3a4f0")
 		(property "Reference" "H3"
-			(at 262.89 278.1299 0)
+			(at 254 273.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14033,7 +14063,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 262.89 280.6699 0)
+			(at 254 275.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14044,7 +14074,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 260.35 279.4 0)
+			(at 251.46 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14055,7 +14085,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 279.4 0)
+			(at 251.46 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14066,7 +14096,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 260.35 279.4 0)
+			(at 251.46 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15419,6 +15449,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 163.83 129.54 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2dc13bab-2705-4339-b60f-4292f3bd5901")
+		(property "Reference" "R35"
+			(at 162.052 127.508 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 162.052 131.826 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 163.83 131.318 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 163.83 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "21dd7f5b-47a6-4924-88a3-4c3fe413ef44")
+		)
+		(pin "1"
+			(uuid "3f06c146-9a0f-49b7-94d8-5335b692c229")
+		)
+		(instances
+			(project "iit-smallomni"
+				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 35.56 24.13 0)
 		(unit 1)
@@ -15826,7 +15938,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 213.36 121.92 0)
+		(at 204.47 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15836,7 +15948,7 @@
 		(dnp no)
 		(uuid "3a6243fc-f230-4e80-8b49-60d52b4ac533")
 		(property "Reference" "#PWR037"
-			(at 213.36 125.73 0)
+			(at 204.47 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15847,7 +15959,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 213.36 118.11 0)
+			(at 204.47 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15857,7 +15969,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 121.92 0)
+			(at 204.47 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15868,7 +15980,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 121.92 0)
+			(at 204.47 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15879,7 +15991,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 213.36 121.92 0)
+			(at 204.47 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15903,7 +16015,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 267.97 129.54 0)
+		(at 278.13 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15913,7 +16025,7 @@
 		(dnp no)
 		(uuid "3ae0fd89-4cfc-4942-b927-3becc6dd3b31")
 		(property "Reference" "SW7"
-			(at 267.97 130.81 0)
+			(at 278.13 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15923,7 +16035,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 267.97 125.73 0)
+			(at 278.13 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15933,7 +16045,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
-			(at 267.97 124.46 0)
+			(at 278.13 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15944,7 +16056,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 124.46 0)
+			(at 278.13 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15955,7 +16067,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 267.97 129.54 0)
+			(at 278.13 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16141,7 +16253,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 260.35 271.78 0)
+		(at 251.46 266.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16152,7 +16264,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e1ba6af-0fef-45ca-81f6-4fca132c0edc")
 		(property "Reference" "H1"
-			(at 262.89 270.5099 0)
+			(at 254 265.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16163,7 +16275,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 262.89 273.0499 0)
+			(at 254 267.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16174,7 +16286,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 260.35 271.78 0)
+			(at 251.46 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16185,7 +16297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 271.78 0)
+			(at 251.46 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16196,7 +16308,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 260.35 271.78 0)
+			(at 251.46 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16682,7 +16794,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 163.83 39.37 0)
+		(at 140.97 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16692,7 +16804,7 @@
 		(dnp no)
 		(uuid "48de2237-8e1f-4b5d-b1d0-7b198a985968")
 		(property "Reference" "BTN_RST1"
-			(at 163.83 41.148 0)
+			(at 140.97 41.148 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16702,7 +16814,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 163.83 35.56 0)
+			(at 140.97 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16712,7 +16824,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
-			(at 163.83 34.29 0)
+			(at 140.97 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16723,7 +16835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 34.29 0)
+			(at 140.97 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16734,7 +16846,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 163.83 39.37 0)
+			(at 140.97 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17390,6 +17502,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 267.97 129.54 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5f33d8c1-157e-4631-9351-be27ff82f4ab")
+		(property "Reference" "R37"
+			(at 266.192 127.508 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 266.192 131.826 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 267.97 131.318 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 267.97 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 267.97 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "64087f63-737f-4a55-8f7c-9c08e6ac7bde")
+		)
+		(pin "1"
+			(uuid "e0a1a1d3-da27-4bdc-a96d-669a00e3f923")
+		)
+		(instances
+			(project "iit-smallomni"
+				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 264.16 36.83 0)
 		(unit 1)
@@ -17488,7 +17682,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "S32 THRU S320"
 			(at 72.39 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17775,6 +17969,88 @@
 			(project "iit-smallomni"
 				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 213.36 129.54 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "60d45da9-a78f-4fc8-ad9a-83d01d8043d1")
+		(property "Reference" "R36"
+			(at 211.582 127.508 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 211.582 131.826 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 213.36 131.318 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 213.36 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1562103e-08f7-4274-8468-ea03a279d240")
+		)
+		(pin "1"
+			(uuid "3389764b-fdd6-4e22-b5d5-ffbdfbb9c124")
+		)
+		(instances
+			(project "iit-smallomni"
+				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -18523,7 +18799,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 151.13 46.99 0)
+		(at 153.67 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18533,7 +18809,7 @@
 		(dnp no)
 		(uuid "75b81c24-384a-4db9-b3c2-279d215ab000")
 		(property "Reference" "#PWR029"
-			(at 151.13 50.8 0)
+			(at 153.67 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18544,7 +18820,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 151.13 43.18 0)
+			(at 153.67 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18554,7 +18830,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 46.99 0)
+			(at 153.67 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18565,7 +18841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 46.99 0)
+			(at 153.67 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18576,7 +18852,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 151.13 46.99 0)
+			(at 153.67 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18754,7 +19030,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 129.54 0)
+		(at 182.88 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18764,7 +19040,7 @@
 		(dnp no)
 		(uuid "762c0305-38fc-4b7d-9223-8b3f2ccd8c99")
 		(property "Reference" "#PWR032"
-			(at 185.42 135.89 0)
+			(at 182.88 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18775,7 +19051,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 133.35 0)
+			(at 182.88 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18785,7 +19061,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 129.54 0)
+			(at 182.88 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18796,7 +19072,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 129.54 0)
+			(at 182.88 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18807,7 +19083,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 129.54 0)
+			(at 182.88 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18831,7 +19107,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 276.86 129.54 0)
+		(at 287.02 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18841,7 +19117,7 @@
 		(dnp no)
 		(uuid "76ed95f9-784e-4b48-9d75-5ef207610533")
 		(property "Reference" "#PWR044"
-			(at 276.86 135.89 0)
+			(at 287.02 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18852,7 +19128,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 276.86 133.35 0)
+			(at 287.02 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18862,7 +19138,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 129.54 0)
+			(at 287.02 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18873,7 +19149,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 129.54 0)
+			(at 287.02 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18884,7 +19160,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 276.86 129.54 0)
+			(at 287.02 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19625,7 +19901,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 281.94 279.4 0)
+		(at 273.05 274.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19636,7 +19912,7 @@
 		(fields_autoplaced yes)
 		(uuid "83860991-3601-4855-9cb5-e024e85e8b2d")
 		(property "Reference" "H4"
-			(at 284.48 278.1299 0)
+			(at 275.59 273.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19647,7 +19923,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 284.48 280.6699 0)
+			(at 275.59 275.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19658,7 +19934,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 281.94 279.4 0)
+			(at 273.05 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19669,7 +19945,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 279.4 0)
+			(at 273.05 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19680,7 +19956,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 281.94 279.4 0)
+			(at 273.05 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21825,6 +22101,88 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 162.56 39.37 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b59810a4-9685-451e-81d8-6493210ae02a")
+		(property "Reference" "R38"
+			(at 160.782 37.338 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 160.782 41.656 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 162.56 41.148 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 162.56 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dd85caef-e208-4d01-a90a-b49a7b077a7b")
+		)
+		(pin "1"
+			(uuid "d6b06e5a-24d7-4ba3-a8c5-569637c9a02d")
+		)
+		(instances
+			(project "iit-smallomni"
+				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 132.08 261.62 90)
 		(mirror x)
 		(unit 1)
@@ -22451,7 +22809,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 166.37 125.73 0)
+		(at 154.94 125.73 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -22462,7 +22820,7 @@
 		(dnp no)
 		(uuid "bdbe292c-da28-42b8-a23e-071e5b08168a")
 		(property "Reference" "R13"
-			(at 165.1 124.46 0)
+			(at 153.67 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22473,7 +22831,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 165.1 127 0)
+			(at 153.67 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22484,7 +22842,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 168.148 125.73 90)
+			(at 156.718 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22495,7 +22853,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 125.73 0)
+			(at 154.94 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22506,7 +22864,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 166.37 125.73 0)
+			(at 154.94 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22533,7 +22891,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 213.36 125.73 0)
+		(at 204.47 125.73 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -22544,7 +22902,7 @@
 		(dnp no)
 		(uuid "bf7dbb9e-4c9c-4330-abae-69f56a53f45e")
 		(property "Reference" "R14"
-			(at 212.09 124.46 0)
+			(at 203.2 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22555,7 +22913,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 212.09 127 0)
+			(at 203.2 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22566,7 +22924,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 215.138 125.73 90)
+			(at 206.248 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22577,7 +22935,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 125.73 0)
+			(at 204.47 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22588,7 +22946,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 213.36 125.73 0)
+			(at 204.47 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22615,7 +22973,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 45.72 0)
+		(at 135.89 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22625,7 +22983,7 @@
 		(dnp no)
 		(uuid "c3beeaf6-d8cc-4956-80fd-d2ebab614b20")
 		(property "Reference" "#PWR022"
-			(at 158.75 52.07 0)
+			(at 135.89 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22636,7 +22994,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.75 49.53 0)
+			(at 135.89 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22646,7 +23004,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 45.72 0)
+			(at 135.89 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22657,7 +23015,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 45.72 0)
+			(at 135.89 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22668,7 +23026,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 45.72 0)
+			(at 135.89 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22769,7 +23127,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 176.53 129.54 0)
+		(at 173.99 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22779,7 +23137,7 @@
 		(dnp no)
 		(uuid "c64161d7-dfe5-4911-8a71-44b2189dcad5")
 		(property "Reference" "SW5"
-			(at 176.53 130.81 0)
+			(at 173.99 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22789,7 +23147,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 176.53 125.73 0)
+			(at 173.99 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22799,7 +23157,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
-			(at 176.53 124.46 0)
+			(at 173.99 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22810,7 +23168,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 124.46 0)
+			(at 173.99 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22821,7 +23179,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 176.53 129.54 0)
+			(at 173.99 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23359,7 +23717,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 166.37 121.92 0)
+		(at 154.94 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23369,7 +23727,7 @@
 		(dnp no)
 		(uuid "d1cbfce7-dcb1-4d68-8213-da67d92a3ade")
 		(property "Reference" "#PWR027"
-			(at 166.37 125.73 0)
+			(at 154.94 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23380,7 +23738,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 166.37 118.11 0)
+			(at 154.94 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23390,7 +23748,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 166.37 121.92 0)
+			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23401,7 +23759,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 121.92 0)
+			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23412,7 +23770,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 166.37 121.92 0)
+			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25324,7 +25682,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 151.13 50.8 0)
+		(at 153.67 50.8 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -25335,7 +25693,7 @@
 		(dnp no)
 		(uuid "ee372f75-d4a1-472d-86af-a17d8b2b25f8")
 		(property "Reference" "R5"
-			(at 149.86 49.53 0)
+			(at 152.4 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25346,7 +25704,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 149.86 52.07 0)
+			(at 152.4 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25357,7 +25715,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 152.908 50.8 90)
+			(at 155.448 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25368,7 +25726,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 50.8 0)
+			(at 153.67 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25379,7 +25737,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 151.13 50.8 0)
+			(at 153.67 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25565,7 +25923,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 176.53 135.89 90)
+		(at 173.99 135.89 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25575,7 +25933,7 @@
 		(dnp no)
 		(uuid "f2aeb3ca-75f2-4df5-ac5a-d4d01b1e6a53")
 		(property "Reference" "C2"
-			(at 175.26 140.97 0)
+			(at 172.72 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25586,7 +25944,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at 177.8 142.24 0)
+			(at 175.26 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25597,7 +25955,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 180.34 134.9248 0)
+			(at 177.8 134.9248 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25608,7 +25966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 135.89 0)
+			(at 173.99 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25619,7 +25977,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 176.53 135.89 0)
+			(at 173.99 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25646,7 +26004,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 281.94 271.78 0)
+		(at 273.05 266.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25657,7 +26015,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2f24792-b690-4ff9-9078-ff1556f17726")
 		(property "Reference" "H2"
-			(at 284.48 270.5099 0)
+			(at 275.59 265.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25668,7 +26026,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 284.48 273.0499 0)
+			(at 275.59 267.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25679,7 +26037,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 281.94 271.78 0)
+			(at 273.05 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25690,7 +26048,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 271.78 0)
+			(at 273.05 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25701,7 +26059,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 281.94 271.78 0)
+			(at 273.05 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
