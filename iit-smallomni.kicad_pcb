@@ -875,7 +875,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "78d5a987-462e-429d-a51c-2745e581a0f7")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/my models/hex_spacer-50mm-M3-ff.step"
+		(model "${KIPRJMOD}/3d components/hex spacer/hex_spacer-50mm-M3-ff.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2094,7 +2094,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 0 2.1 -90)
+			(at -0.762 1.524 -90)
 			(layer "F.Fab")
 			(uuid "acb45297-9d42-451e-b0c6-34c6d0bc3375")
 			(effects
@@ -2955,7 +2955,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "0822191b-bd0a-4712-a959-42ddd204265a")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/my models/hex_spacer-50mm-M3-ff.step"
+		(model "${KIPRJMOD}/3d components/hex spacer/hex_spacer-50mm-M3-ff.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4689,7 +4689,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/hc-sr04/HC-04HC-04.stp"
+		(model "${KIPRJMOD}/3d components/hc-sr04/HC-04HC-04.stp"
 			(offset
 				(xyz -4 -3.75 16.5)
 			)
@@ -6251,7 +6251,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/hc-sr04/HC-04HC-04.stp"
+		(model "${KIPRJMOD}/3d components/hc-sr04/HC-04HC-04.stp"
 			(offset
 				(xyz -4 -3.75 16.5)
 			)
@@ -7661,7 +7661,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/esp32/NodeMCU-32S.step"
+		(model "${KIPRJMOD}/3d components/esp32/NodeMCU-32S.step"
 			(offset
 				(xyz -0.5 0 9.5)
 			)
@@ -8239,7 +8239,7 @@
 			(pintype "power_out")
 			(uuid "428d3497-61a2-4967-813b-f1c6dc3d8da0")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/dsn/DC-DC 4.5-28V to 0.8-20V Output 3A MP1584EN Step Down Buck Converter.STEP"
+		(model "${KIPRJMOD}/3d components/dsn/DC-DC 4.5-28V to 0.8-20V Output 3A MP1584EN Step Down Buck Converter.STEP"
 			(offset
 				(xyz 1.01 -0.9 10)
 			)
@@ -11173,7 +11173,7 @@
 			(pintype "passive+no_connect")
 			(uuid "cf62ecd6-de4f-445c-a289-e21e18ff5bf3")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/spdt/SPDT slide switch SS12D00.step"
+		(model "${KIPRJMOD}/3d components/spdt/SPDT slide switch SS12D00.step"
 			(offset
 				(xyz 0 -2.54 0)
 			)
@@ -11448,7 +11448,7 @@
 			(pintype "passive+no_connect")
 			(uuid "67a389b5-968e-4bbd-97fc-415aaeed524c")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/spdt/SPDT slide switch SS12D00.step"
+		(model "${KIPRJMOD}/3d components/spdt/SPDT slide switch SS12D00.step"
 			(offset
 				(xyz 0 -2.54 0)
 			)
@@ -12190,7 +12190,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/LiPo guard/Low Voltage Alarm.stp"
+		(model "${KIPRJMOD}/3d components/LiPo guard/Low Voltage Alarm.stp"
 			(offset
 				(xyz -2.25 2.4 25)
 			)
@@ -14056,7 +14056,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/MPU-9250/MPU-9250.stp"
+		(model "${KIPRJMOD}/3d components/MPU-9250/MPU-9250.stp"
 			(offset
 				(xyz -1.5 -24 12.5)
 			)
@@ -14179,7 +14179,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "7062e37f-38a1-4bf5-84e8-d27e62fad97b")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/my models/hex_spacer-50mm-M3-ff.step"
+		(model "${KIPRJMOD}/3d components/hex spacer/hex_spacer-50mm-M3-ff.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17217,7 +17217,7 @@
 			(pintype "bidirectional")
 			(uuid "1f7402a2-b9b5-4518-b0fc-d422bc8230f5")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/drv8833/Modulo_DRV8833_A.stp"
+		(model "${KIPRJMOD}/3d components/drv8833/Modulo_DRV8833_A.stp"
 			(offset
 				(xyz 1.25 -0.25 10)
 			)
@@ -19914,7 +19914,7 @@
 			(pintype "bidirectional")
 			(uuid "78b8db00-4d38-446c-acfa-b8b4b2f17d6f")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/drv8833/Modulo_DRV8833_A.stp"
+		(model "${KIPRJMOD}/3d components/drv8833/Modulo_DRV8833_A.stp"
 			(offset
 				(xyz 1.25 -0.25 10)
 			)
@@ -20692,7 +20692,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "b41a3f46-d5b7-4e7b-9115-e1873745018f")
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/my models/hex_spacer-50mm-M3-ff.step"
+		(model "${KIPRJMOD}/3d components/hex spacer/hex_spacer-50mm-M3-ff.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23374,7 +23374,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/Tarsoly/Programming/IIT robotcsapat/3d/3rd party models/hc-sr04/HC-04HC-04.stp"
+		(model "${KIPRJMOD}/3d components/hc-sr04/HC-04HC-04.stp"
 			(offset
 				(xyz -4 -3.75 16.5)
 			)
