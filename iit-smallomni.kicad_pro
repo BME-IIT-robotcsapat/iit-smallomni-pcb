@@ -589,9 +589,6 @@
       "Net-(D1-K)": [
         "power"
       ],
-      "Net-(D10-K)": [
-        "signal"
-      ],
       "Net-(D11-A1)": [
         "power"
       ],
@@ -602,18 +599,6 @@
         "power"
       ],
       "Net-(D5-K)": [
-        "signal"
-      ],
-      "Net-(D6-K)": [
-        "signal"
-      ],
-      "Net-(D7-K)": [
-        "signal"
-      ],
-      "Net-(D8-K)": [
-        "signal"
-      ],
-      "Net-(D9-K)": [
         "signal"
       ],
       "Net-(J2-Pin_2)": [
@@ -635,6 +620,21 @@
         "signal"
       ],
       "Net-(JP1-C)": [
+        "signal"
+      ],
+      "Net-(L0-K)": [
+        "signal"
+      ],
+      "Net-(L1-K)": [
+        "signal"
+      ],
+      "Net-(L2-K)": [
+        "signal"
+      ],
+      "Net-(L3-K)": [
+        "signal"
+      ],
+      "Net-(L4-K)": [
         "signal"
       ],
       "Net-(U1-EN{slash}RESET)": [

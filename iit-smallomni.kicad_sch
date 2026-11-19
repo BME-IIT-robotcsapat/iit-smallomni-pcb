@@ -10732,7 +10732,7 @@
 		)
 		(uuid "2a6f03d0-dd4f-4385-932c-8025920b0cc7")
 	)
-	(label "LED_1"
+	(label "LED_0"
 		(at 185.42 176.53 180)
 		(effects
 			(font
@@ -10762,7 +10762,7 @@
 		)
 		(uuid "363056d0-3072-4af3-a69f-ba4a20967c44")
 	)
-	(label "LED_2"
+	(label "LED_1"
 		(at 222.25 176.53 180)
 		(effects
 			(font
@@ -10782,7 +10782,7 @@
 		)
 		(uuid "3d7c9ec4-5b43-4e55-ab2d-12c75ef031af")
 	)
-	(label "LED_1"
+	(label "LED_0"
 		(at 76.2 182.88 0)
 		(effects
 			(font
@@ -10792,7 +10792,7 @@
 		)
 		(uuid "3e2cfab5-0020-432e-9416-e7864c1d4341")
 	)
-	(label "LED_5"
+	(label "LED_4"
 		(at 222.25 195.58 180)
 		(effects
 			(font
@@ -10842,7 +10842,7 @@
 		)
 		(uuid "50087173-1174-4b6f-b09d-748ec82e4314")
 	)
-	(label "LED_4"
+	(label "LED_3"
 		(at 76.2 190.5 0)
 		(effects
 			(font
@@ -11102,7 +11102,7 @@
 		)
 		(uuid "99768e6d-fbca-4b5c-b751-d054c4f18c6b")
 	)
-	(label "LED_5"
+	(label "LED_4"
 		(at 76.2 193.04 0)
 		(effects
 			(font
@@ -11122,7 +11122,7 @@
 		)
 		(uuid "9f927546-a8bf-4d0e-811a-3d06ab916ad2")
 	)
-	(label "LED_3"
+	(label "LED_2"
 		(at 148.59 196.85 180)
 		(effects
 			(font
@@ -11192,7 +11192,7 @@
 		)
 		(uuid "b57773bb-ae1c-4b64-90bc-f1671dc885a7")
 	)
-	(label "LED_2"
+	(label "LED_1"
 		(at 76.2 185.42 0)
 		(effects
 			(font
@@ -11352,7 +11352,7 @@
 		)
 		(uuid "dd1d80ea-0b79-4219-973f-0c68bceb8c74")
 	)
-	(label "LED_4"
+	(label "LED_3"
 		(at 185.42 196.85 180)
 		(effects
 			(font
@@ -11462,7 +11462,7 @@
 		)
 		(uuid "e68ecc6e-057d-4a65-acce-811f3084d744")
 	)
-	(label "LED_3"
+	(label "LED_2"
 		(at 76.2 187.96 0)
 		(effects
 			(font
@@ -14630,7 +14630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "254c7a71-3304-4639-bf73-e5b5bb295592")
-		(property "Reference" "D9"
+		(property "Reference" "L3"
 			(at 201.93 199.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14692,7 +14692,7 @@
 		(instances
 			(project "iit-smallomni"
 				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
-					(reference "D9")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -17752,7 +17752,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6025c281-3d4c-4be4-8873-402190a8a818")
-		(property "Reference" "D6"
+		(property "Reference" "L0"
 			(at 201.93 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17814,7 +17814,7 @@
 		(instances
 			(project "iit-smallomni"
 				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
-					(reference "D6")
+					(reference "L0")
 					(unit 1)
 				)
 			)
@@ -20513,7 +20513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94693831-d2fd-4d7b-9702-fc53ac5bc48e")
-		(property "Reference" "D7"
+		(property "Reference" "L1"
 			(at 238.76 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20575,7 +20575,7 @@
 		(instances
 			(project "iit-smallomni"
 				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
-					(reference "D7")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -21151,7 +21151,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cd3ef88-3052-45de-89a7-68b4fa0dda1d")
-		(property "Reference" "D10"
+		(property "Reference" "L4"
 			(at 238.76 198.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21213,7 +21213,7 @@
 		(instances
 			(project "iit-smallomni"
 				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
-					(reference "D10")
+					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -25365,7 +25365,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eabad5f5-f112-48ac-b20f-c0b6deaa6ae0")
-		(property "Reference" "D8"
+		(property "Reference" "L2"
 			(at 165.1 199.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25427,7 +25427,7 @@
 		(instances
 			(project "iit-smallomni"
 				(path "/7bce4676-45a5-4a88-afc4-c22791068c92"
-					(reference "D8")
+					(reference "L2")
 					(unit 1)
 				)
 			)
